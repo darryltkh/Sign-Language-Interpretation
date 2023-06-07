@@ -10,7 +10,7 @@ How this project was conducted:
 - With the Arduino taped on the hand, the sign language gestures are performed and the board will do model inferrence on the IMU data and output the corresponding word.
 
 Sign language words and gestures used in this project: "how", "me", "bus", "you".
-Coressponding gestures are taken from Singapore Sign Language video tutorials in Youtube - [here](https://www.youtube.com/watch?v=AT4pSTXxI5U&t=1s) and [here](https://www.youtube.com/watch?v=-PJOW098IKE).
+Coresponding gestures are taken from Singapore Sign Language video tutorials in Youtube - [here](https://www.youtube.com/watch?v=AT4pSTXxI5U&t=1s) and [here](https://www.youtube.com/watch?v=-PJOW098IKE).
 
 ## Result
 Achieved 100% accuracy due to the distinct gestures chosen, resulting in easier classification.
